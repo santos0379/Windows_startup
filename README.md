@@ -1,2 +1,1 @@
-# Windows_startup
-Starting up 
+qemu-system-x86_64 \
